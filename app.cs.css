@@ -1,0 +1,34 @@
+.g-1 .m1 p{
+    float: left;
+    font-size: 20px;
+    color: aliceblue;
+
+}
+.g-1 .m2 p{
+    float: right;
+}
+.g2{
+    Line-height: 2;
+    color: #0eb8f6;
+    text-align: center;
+}
+.g-1{
+
+    background-color: #;
+}
+.g2 p{
+    color: aliceblue;
+}
+.g2 h2{
+    color: aliceblue;
+}
+.g2{
+    background-color: #13172a;
+}
+.g2.m3.md h1{
+     text-align: center;
+ }
+.g-1 .m1 .m2 .m4{
+    color: #3083a0
+    float: right;
+}
